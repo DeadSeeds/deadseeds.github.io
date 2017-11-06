@@ -1,0 +1,18 @@
+---
+layout: post
+title: Journey Towards Development
+---
+
+The decision to return to formalized education for software development was not an easy one for me.  I've been an audio engineer for the past fifteen years, and audio is a big part of my life even outside of my work duties.  However, I was bitten by the computing bug at a very young age when I learned Apple Logo and BASIC on the old Apple IIe.  Back then, mainstream software development was just getting started, and was difficult for the average person to pickup.  Not only that, but the monochromatic screens and lack of graphical interfaces made computers *themselves* difficult to use, as you had to know how to use a command line to use them.  And while I was well versed at using Apple's early PCs (and PETs, which used cassette tapes as disk drives!), they were only as good as the software that was written for them, and the early programs left a lot to be desired.
+
+That all changed when Apple introduced the Macintosh in 1984.  I went to a private school, and sometime around 1987 they acquired two Mac Pluses.  I got in trouble one day, and wasn't allowed to go to recess with the rest of the kids.  Instead, I was ordered into the computer lab to study.  Since no one was watching, I flipped through the 3.5 inch floppy disks, and stumbled upon a game called Millionaire, which was a stock market "simulator."  I had never used a Macintosh before, but even as a child, I was immediately impressed by how easy and intuitive the computer was to use.  I feel in love on the spot.
+
+Fast forward a couple years, and I managed to convince my parents to upgrade our Apple IIc to a Macintosh SE.  Its small footprint hid the power it held inside: a MEGABYTE of RAM, a 7.8 megaHertz Motorola 68000 processor, and best of all, a twenty megabyte hard drive!
+
+I spent much of my early teenage years on that machine, exploring the BBSes of southeastern Michigan on my 1200 baud modem.  I began digging deeper into the internals of the machine, delighting in the amount of customization options I found.  It was then that I knew that I wanted to work with computers for the rest of my life.
+
+When Apple's OS X was released, I actually *purchased* the Public Beta (yup, you had to pay for the privilege to beta test their software... how far we've come) and immediately went to the command line.  It was then that I began to understand the power of stringing simple commands together to batch process files.  Neato!  But I wanted more, so I dug even deeper.
+
+My love of music led me into a career in audio, which was perfect as at the turn of the 21st century, audio was just starting to become digitized on a mass scale.  Production, distribution and even promotion were just starting to move out of the analog age, and that made a career in audio even more alluring.  After completing a degree at Full Sail University, I did live audio at venues, music production in professional studios and production audio on commercial and industrial sets, before settling in as a post-production audio producer and music composer.  All the while, I kept learning more and more about computers, often being the "IT guy" for my department when there were inevitable problems in our job-specific workflows. My life-long interest in computers has paid off more times than I can count.
+
+Fast forward yet again, and after many years of using computers for audio, installing and customizing multiple versions of Linux and general messing around, I decided it was time to finally take my knowledge to the next level.  So, I enrolled at Bloc.io in May, 2017.  How has that been going?  More in the next post.
